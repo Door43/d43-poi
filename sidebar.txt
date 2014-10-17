@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[poi:home|Door43 (poi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-poi|d43-poi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-poi/archive/master.zip|d43-poi.zip]]
+
+**Recent Changes**
+{{changes>ns = poi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/poi|Ethnologue data]]
+
